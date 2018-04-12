@@ -1,0 +1,17 @@
+body {
+	background-color: #FC3D3D;
+}
+div.main {
+	margin: 50px auto;
+	width: 888px;
+}
+div.imgBox {
+	margin: 10px auto;
+	width: 888px;
+	height: 500px;
+	background-color: #ccc;
+}
+img.imgLazyLoad {
+	width: 100%;
+	height: 100%;
+}
